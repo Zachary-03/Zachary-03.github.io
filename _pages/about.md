@@ -54,7 +54,7 @@ You can find my CV here: [Zhangyi](../assets/CV.pdf).
 # 📖 Educations
 - *2025.09 - 2028.07*, Master of The Visual & Data Intelligence (VDI) Center, ShangHaiTech University, ShangHai, China
   - Supervised by [Prof. Xuming He](https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/index.html)
-- *2019.09 - 2023.07*, Bachelor of Computer Science and Technology Major, Nan Chang University, JiangXi, China  
+- *2021.09 - 2025.07*, Bachelor of Computer Science and Technology Major, Nan Chang University, JiangXi, China  
 
 <!-- 
 # 💬 Invited Talks
